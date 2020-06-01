@@ -64,7 +64,7 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 
 ## :iphone: Iniciando mobile
 ```bash
-  # Entrar no diretório do mobile:
+  # Entrar no diretório mobile:
   $ cd mobile
 
   # Instalar as dependências:
