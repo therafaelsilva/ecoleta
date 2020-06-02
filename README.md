@@ -50,6 +50,8 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
   $ yarn dev
 ```
 
+Para testar as rotas, instale o software [Insomnia (Opção Core)](https://insomnia.rest/) e importe o arquivo isomnia.json que está localizado no mesmo diretório do back-end.
+
 ## :computer: Iniciando front-end
 ```bash
   # Entrar no diretório do back-end:
