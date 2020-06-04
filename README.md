@@ -14,7 +14,6 @@
 <h1  align="center">
   <img  alt="ecoleta"  src="https://res.cloudinary.com/therafaelsilva/image/upload/v1591044986/ecoletas_wo9pap.png" />
 </h1>
-
   
 
 ## :page_with_curl: Sobre
