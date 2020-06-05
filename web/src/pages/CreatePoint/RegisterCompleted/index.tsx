@@ -1,14 +1,14 @@
 import React from 'react';
 import { FiCheckCircle } from 'react-icons/fi';
 
-import './styles.css';
+import { Container } from './styles';
 
 const RegisterCompleted: React.FC = () => {
   return (
-    <div className="container">
+    <Container>
       <FiCheckCircle />
       <h1>Cadastro concluído!</h1>
-    </div>
+    </Container>
   );
 };
 
