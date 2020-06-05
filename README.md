@@ -1,36 +1,19 @@
-
-<h1  align="center">
-
-<img  alt="ecoleta"  src="https://ik.imagekit.io/wxjs8ddgsv/logo_8saCUID-F.png"  width="250px" />
-
+<h1 align="center">
+    <img alt="ecoleta" src="https://ik.imagekit.io/wxjs8ddgsv/logo_8saCUID-F.png" width="250px" />
 </h1>
 
-  
-
-<p  align="center">
-
-<a  href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a  href="#books-requisitos">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a  href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a  href="#gear-iniciando-back-end">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a  href="#computer-iniciando-front-end">ReactJS</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a  href="#iphone-iniciando-mobile">React Native</a>
-
-</p>
-
-  
+<p align="center">
+  <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-requisitos">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-iniciando-back-end">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-iniciando-front-end">ReactJS</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-iniciando-mobile">React Native</a>
+</p>  
 
 <h1  align="center">
-
-<img  alt="ecoleta"  src="https://res.cloudinary.com/therafaelsilva/image/upload/v1591044986/ecoletas_wo9pap.png" />
-
+  <img  alt="ecoleta"  src="https://res.cloudinary.com/therafaelsilva/image/upload/v1591044986/ecoletas_wo9pap.png" />
 </h1>
-
   
 
 ## :page_with_curl: Sobre
