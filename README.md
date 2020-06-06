@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="NLW" src="https://ik.imagekit.io/wxjs8ddgsv/nezt-level-week_A-aHGeRPO.svg" width="200px"/>
+</p>
+
 <h1 align="center">
     <img alt="ecoleta" src="https://ik.imagekit.io/wxjs8ddgsv/logo_8saCUID-F.png" width="250px" />
 </h1>
@@ -12,7 +16,7 @@
 </p>  
 
 <h1  align="center">
-  <img  alt="ecoleta"  src="https://res.cloudinary.com/therafaelsilva/image/upload/v1591044986/ecoletas_wo9pap.png" />
+  <img  alt="ecoleta"  src="https://res.cloudinary.com/therafaelsilva/image/upload/v1591486760/NLW-cover_ymaybm.jpg" />
 </h1>
   
 
@@ -157,7 +161,7 @@ $ yarn
 
 # Rodar a aplicação:
 
-$ yarn ios ou yarn android
+$ yarn start
 
 ```
 
@@ -176,3 +180,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
   
 
 Feito com ❤️ por Rafael Silva 👋🏻 [Get in touch!](https://github.com/therafaelsilva)
++.

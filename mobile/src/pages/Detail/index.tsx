@@ -22,6 +22,7 @@ interface RouteParams {
 interface Data {
   point: {
     image: string;
+    image_url: string;
     name: string;
     email: string;
     whatsapp: string;
@@ -42,7 +43,7 @@ const Detail: React.FC = () => {
   const routeParams = route.params as RouteParams;
 
   useEffect(() => {
-    api.get(`/points/${routeParams.point_id}`).then(response => {
+    api.get(`points/${routeParams.point_id}`).then(response => {
       setData(response.data);
     });
   }, [routeParams]);
@@ -51,7 +52,7 @@ const Detail: React.FC = () => {
     navigation.navigate('Points');
   }
 
-  function handleComposerMail(): void {
+  function handleComposeMail(): void {
     MailComposer.composeAsync({
       subject: 'Interesse na coleta de resíduos',
       recipients: [data.point.email],
@@ -78,7 +79,7 @@ const Detail: React.FC = () => {
         <Image
           style={styles.pointImage}
           source={{
-            uri: data.point.image,
+            uri: data.point.image_url,
           }}
         />
         <Text style={styles.pointName}>{data.point.name}</Text>
@@ -100,7 +101,7 @@ const Detail: React.FC = () => {
           <Text style={styles.buttonText}>Whatsapp</Text>
         </RectButton>
 
-        <RectButton style={styles.button} onPress={handleComposerMail}>
+        <RectButton style={styles.button} onPress={handleComposeMail}>
           <Icon name="mail" size={20} color="#fff" />
           <Text style={styles.buttonText}>E-mail</Text>
         </RectButton>
@@ -113,7 +114,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 32,
-    paddingTop: 20,
+    paddingTop: 35,
   },
 
   pointImage: {
